@@ -7,7 +7,7 @@ library(survminer)
 library(cvTools)
 
 #Import dataset
-data<-read.csv("/Users/xiechenyi/Documents/2crc_trt/upload/dataset/rd_features_survival.csv",row.names=1)
+data<-read.csv(".../dataset/rd_features_survival.csv",row.names=1)
 
 ## The survival-by-treatment interaction test to select top significant features
 uni_cox <-list()
