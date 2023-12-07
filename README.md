@@ -23,19 +23,20 @@ rd_features_survival.csv - extracted radiomic data used for the discovery of tre
 ### Requirement
 
 #### Python requirements
-- numpy 
-- pandas 
-- scipy 
-- SimpleITK 
-- scikit-learn 
+- numpy 1.16.3
+- pandas 0.24.2
+- scipy 1.2.1
+- SimpleITK 1.2.0
+- Keras 2.2.4
+- scikit-learn 0.21.1
 
 #### R requirements
-- ggplot2 
-- survival
-- survminer
-- ggpubr
-- cvTools
-- xCell
-- GSEABase
-- GSVA
-- dplyr
+- ggplot2 3.4.3 
+- survival 3.5.5
+- survminer 0.4.9
+- ggpubr 0.6.0
+- cvTools 0.3.2
+- xCell 1.1.0
+- GSEABase 1.60.0
+- GSVA 1.46.0
+- dplyr 1.1.1
