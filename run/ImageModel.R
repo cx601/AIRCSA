@@ -29,7 +29,7 @@ mark <- new_cox_result[which(as.numeric(as.character(new_cox_result[,5]))<=0.05)
 list1<-mark$feature
 dataset_s<-data[,list1]
 
-## Data normalization 
+# Data normalization 
 maxs <- apply(dataset_s, 2, max)
 mins <- apply(dataset_s, 2, min)
 sample_all<-scale(dataset_s, center=(maxs+mins)/2, scale=(maxs-mins)/2)
@@ -47,7 +47,7 @@ Heatmap<-Heatmap(sample_all, name = "Value", col =  col,
 
 Heatmap
 
-#Model evaluation for treatment-specific survival
+# Model evaluation for treatment-specific survival
 fit.surv <-Surv(data$os_fumon,data$os_fustat)
 summary(fit.surv)
 km<- survfit(fit.surv~Adjuvant_chemotherapy,data = data)
