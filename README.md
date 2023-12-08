@@ -17,8 +17,13 @@ Radiomic feature extraction
 - The discovery of treatment decision-related subtypes
 - Model evaluation
 
-### Demo data
+### Data
 rd_features_survival.csv - extracted radiomic data used for the discovery of treatment decision-related subtypes and survival analysis
+
+### run
+All analysis are running under R version 3.3.3
+ImageModel.R -- To perform the survival-by-treatment interaction test, select top significant featuresfor unsupervised clustering of radiological subtypes, and conduct survival analysis for treatment decision-related subtypes.
+RadiogenomicAnalysis.R -- To explore the underlying different biological pathways and to quantify the relative abundance of stromal and immune cell. 
 
 ### Requirement
 
