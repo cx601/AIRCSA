@@ -5,6 +5,9 @@ library(ggplot2)
 library(survival)
 library(survminer)
 library(cvTools)
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(dendextend)
 
 #Import dataset
 data<-read.csv(".../dataset/rd_features_survival.csv",row.names=1)
