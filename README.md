@@ -39,3 +39,6 @@ RadiogenomicAnalysis.R -- To explore the underlying different biological pathway
 - GSEABase 1.60.0
 - GSVA 1.46.0
 - dplyr 1.1.1
+- ComplexHeatmap 2.14.0
+- dendextend 1.17.1
+- RColorBrewer 1.1.3
