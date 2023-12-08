@@ -25,6 +25,7 @@ for(i in 1:dim(cox_result)[1]){
 }
 new_cox_result=cox_result[idx,]
 mark <- new_cox_result[which(as.numeric(as.character(new_cox_result[,5]))<=0.05), ]
+write.csv(mark, file=".../expected_result/rad_cox.interaction.filter0.05.csv",row.names = F,quote = F)
 
 list1<-mark$feature
 dataset_s<-data[,list1]
