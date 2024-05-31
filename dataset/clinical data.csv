@@ -1,0 +1,61 @@
+p_ID,Adjuvant_chemotherapy,os_fustat,os_fumon,dfs_fustat,dfs_fumon,dataset,Age,Sex,pTstage,ln_num,LN_sampled,Location,LVI,PNI,HistoGrade,Differentiation,HistoType,MMR,BRAF,RAS,Ki67,P53,CerbB2,EGFR,ERCC1,COX_2,C_MET,PTEN,CEA,dataset_gd.RiskGroup
+X10101486,Chemo,0,78,0,78,gd,66,Female,3,28,MoreThan12,Right colon,No,No,NAA,Median,Mucinous,pMMR,Positive,Negative,0.8,Positive,Negative,Negative,Positive,High,NAA,NAA,2,1
+X10177768,Chemo,0,60,0,60,gd,77,Male,3,24,MoreThan12,Right colon,Yes,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.7,Positive,Negative,Positive,Positive,Low,Low,NAA,2,2
+X10188208,No chemo,0,66,0,66,gd,60,Male,3,19,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Negative,Negative,Positive,Positive,High,NAA,NAA,8,2
+X10397536,Chemo,0,69,0,69,gd,68,Male,3,10,LessThan12,Right colon,Yes,No,Low,Low,Adeno,dMMR,Negative,Negative,0.95,Positive,Positive,Negative,Positive,Low,NAA,NAA,1,2
+X10402408,Chemo,0,60,0,60,gd,81,Male,3,15,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.7,Positive,Negative,Positive,Positive,Low,Low,NAA,4,2
+X10410049,Chemo,1,55,1,55,gd,77,Male,3,53,MoreThan12,Right colon,No,Yes,Low,Median,Adeno,NAA,Negative,Negative,0.9,Positive,Negative,Positive,Positive,Low,NAA,NAA,1,2
+X10485152,No chemo,0,100,0,100,gd,78,Male,4,22,MoreThan12,Right colon,No,Yes,High,High,Adeno,dMMR,Negative,Negative,0.01,Positive,Negative,Positive,Negative,Middle,NAA,NAA,2,1
+X10493208,No chemo,0,64,0,64,gd,86,Female,3,12,LessThan12,Right colon,No,No,High,Median,Adeno,pMMR,Positive,Negative,0.8,Positive,NAA,Positive,Positive,Low,Low,NAA,3,1
+X10542281,No chemo,0,102,0,102,gd,65,Female,3,13,MoreThan12,Left colon,No,No,High,Median,Adeno,NAA,NAA,NAA,0.6,Positive,Positive,Negative,Negative,Low,NAA,NAA,16,2
+X10555930,No chemo,0,113,0,113,gd,71,Female,4,17,MoreThan12,Right colon,No,No,High,Median,Adeno,NAA,NAA,NAA,0.7,Positive,Negative,Positive,Negative,Low,NAA,NAA,7,2
+X10565691,No chemo,1,19,1,19,gd,87,Female,3,12,LessThan12,Left colon,No,Yes,High,Median,Adeno,pMMR,Negative,Positive,0.95,Positive,Positive,Positive,Positive,High,High,NAA,6,2
+X10593124,No chemo,0,108,0,108,gd,35,Female,3,17,MoreThan12,Left colon,No,No,High,Median,Adeno,NAA,NAA,Positive,1,Positive,Negative,Positive,Negative,Low,NAA,NAA,1,2
+X10596409,No chemo,0,108,0,108,gd,33,Male,3,33,MoreThan12,Right colon,No,No,NAA,Median,Mucinous,NAA,NAA,Positive,0.6,Positive,Negative,Positive,Positive,Middle,NAA,NAA,2,2
+X10627028,Chemo,0,103,0,103,gd,54,Female,4,13,MoreThan12,Right colon,No,Yes,High,Median,Adeno,NAA,Negative,Positive,0.85,Positive,Negative,Positive,Negative,Low,NAA,NAA,0.73,1
+X10641862,Chemo,0,101,0,101,gd,71,Male,3,10,LessThan12,Right colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.3,Positive,Negative,Positive,Positive,Low,NAA,NAA,2,1
+X10656267,Chemo,0,99,0,99,gd,83,Male,3,9,LessThan12,Left colon,No,No,High,Median,Adeno,pMMR,NAA,NAA,0.7,Positive,Negative,Negative,Negative,Low,NAA,NAA,3,2
+X10663113,Chemo,0,60,0,60,gd,51,Male,4,15,MoreThan12,Rectum,No,No,High,Median,Mucinous,pMMR,Negative,Positive,0.7,Positive,Positive,Negative,Positive,Low,Low,NAA,2,2
+X10747380,Chemo,0,81,0,81,gd,80,Male,3,18,MoreThan12,Rectum,No,No,Low,Median,Mucinous,pMMR,Negative,Negative,0.8,Positive,Positive,Negative,Positive,Middle,NAA,NAA,4,2
+X10756461,Chemo,1,52,1,1,gd,74,Female,3,9,LessThan12,Rectum,Yes,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.9,Positive,Negative,Positive,Positive,High,NAA,NAA,3,2
+X10785015,Chemo,1,34,1,34,gd,58,Male,3,22,MoreThan12,Right colon,No,NAA,High,Median,Adeno,pMMR,Negative,Positive,0.5,Positive,Positive,Positive,Negative,High,NAA,NAA,3,2
+X10811252,Chemo,1,61,1,31,gd,61,Female,3,11,LessThan12,Right colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.9,Negative,Negative,Negative,Positive,High,High,NAA,1,2
+X10814399,Chemo,1,44,1,44,gd,66,Female,3,9,LessThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.7,Negative,Positive,Negative,Positive,High,NAA,NAA,3,2
+X10816295,Chemo,0,80,0,80,gd,75,Male,3,23,MoreThan12,Right colon,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.95,Positive,Negative,Negative,Positive,Middle,NAA,NAA,1,2
+X10823659,Chemo,0,79,0,79,gd,60,Male,3,22,MoreThan12,Right colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.7,Positive,Negative,Negative,Positive,Middle,NAA,NAA,2,1
+X10829389,No chemo,0,74,0,74,gd,67,Male,3,15,MoreThan12,Rectum,No,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.7,Positive,Negative,Positive,Positive,Middle,NAA,NAA,2,2
+X10835985,No chemo,0,77,0,77,gd,60,Female,3,18,MoreThan12,Rectum,No,Yes,High,Median,Adeno,pMMR,Negative,Positive,0.9,Positive,Negative,Positive,Positive,Low,NAA,NAA,25,2
+X10837396,Chemo,0,77,0,77,gd,38,Female,3,7,LessThan12,Rectum,No,Yes,NAA,Low,Mucinous,NAA,NAA,NAA,NAA,NAA,NAA,NAA,NAA,NAA,NAA,NAA,2,2
+X10837445,Chemo,0,77,1,39,gd,82,Female,3,10,LessThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.6,Positive,Negative,Negative,NAA,Middle,NAA,NAA,6,2
+X10848860,Chemo,0,76,0,76,gd,56,Male,3,19,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.85,Positive,Negative,Negative,Positive,Middle,NAA,NAA,5,2
+X10853260,Chemo,0,75,0,75,gd,75,Male,3,23,MoreThan12,Right colon,No,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.6,Positive,Negative,Positive,Negative,Low,NAA,NAA,1,2
+X10860760,No chemo,0,74,0,74,gd,71,Female,4,14,MoreThan12,Right colon,No,No,High,Median,Adeno,dMMR,Negative,Positive,0.6,Positive,Positive,Positive,Positive,High,NAA,NAA,1,2
+X10868415,No chemo,0,73,0,73,gd,71,Female,3,12,LessThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.9,Negative,Positive,Positive,Positive,NAA,NAA,NAA,3,2
+X10872720,No chemo,1,7,1,7,gd,84,Female,3,13,MoreThan12,Right colon,Yes,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.6,Positive,Positive,Positive,Positive,Middle,NAA,NAA,6,1
+X10876074,Chemo,0,73,0,73,gd,53,Male,3,27,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.85,Positive,Negative,Positive,Positive,High,NAA,NAA,1,2
+X10877234,Chemo,0,63,0,63,gd,65,Male,3,15,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.8,Negative,Negative,Positive,Positive,High,High,NAA,3,2
+X10883126,Chemo,0,72,0,72,gd,58,Female,3,19,MoreThan12,Right colon,No,Yes,Low,Low,Adeno,pMMR,Negative,Positive,0.9,Positive,Negative,Positive,Positive,Low,NAA,NAA,1,2
+X10903734,No chemo,0,69,0,69,gd,77,Male,3,22,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Positive,Positive,Positive,Positive,High,NAA,NAA,1,2
+X10906590,No chemo,0,69,0,69,gd,60,Female,3,21,MoreThan12,Right colon,No,No,High,Median,Mucinous,pMMR,Negative,Positive,0.85,Positive,Negative,Positive,Positive,High,NAA,NAA,2,2
+X10919722,Chemo,0,68,1,41,gd,68,Male,3,14,MoreThan12,Left colon,No,Yes,High,Median,Adeno,pMMR,Negative,Positive,0.8,Positive,Negative,Positive,Positive,High,NAA,NAA,57,1
+X10933781,Chemo,0,66,0,66,gd,52,Male,3,12,LessThan12,Right colon,Yes,No,Low,Low,Adeno,pMMR,Negative,Positive,0.8,Negative,Negative,Positive,Positive,Middle,NAA,NAA,14,2
+X10948006,No chemo,1,25,1,5,gd,68,Female,3,13,MoreThan12,Right colon,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.2,Positive,NAA,Positive,Positive,Middle,Low,NAA,1,2
+X10948374,Chemo,0,64,0,64,gd,68,Female,3,11,LessThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.4,Positive,NAA,Positive,Positive,Middle,High,NAA,3,1
+X10949279,Chemo,0,64,0,64,gd,55,Male,3,14,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Positive,NAA,Positive,Positive,Low,High,NAA,2,2
+X10951360,No chemo,0,64,0,64,gd,68,Female,3,7,LessThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.95,Positive,NAA,Negative,Positive,Low,High,NAA,2,2
+X10954796,Chemo,0,63,0,63,gd,64,Male,3,24,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.8,Positive,NAA,Positive,Positive,Low,High,NAA,1,1
+X10954830,Chemo,0,63,0,63,gd,62,Male,3,10,LessThan12,Left colon,Yes,Yes,High,Median,Adeno,pMMR,Negative,Positive,0.8,Positive,NAA,Positive,Positive,Low,High,NAA,1,1
+X10957572,Chemo,0,63,0,63,gd,49,Male,3,8,LessThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.7,Negative,Negative,Positive,Positive,Middle,High,NAA,2,2
+X10958915,Chemo,0,63,0,63,gd,55,Male,3,22,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Positive,Negative,Positive,Positive,High,High,NAA,56,1
+X10963580,No chemo,0,62,0,62,gd,72,Male,3,18,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Positive,Negative,Positive,Positive,High,High,NAA,9,2
+X10968569,Chemo,0,62,0,62,gd,60,Male,3,15,MoreThan12,Rectum,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.8,Positive,Negative,Positive,Positive,Low,Low,NAA,2,2
+X10968668,No chemo,0,62,0,62,gd,62,Female,3,17,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Positive,0.9,Positive,Negative,Positive,Positive,Low,High,NAA,19,2
+X10971171,Chemo,0,41,0,41,gd,48,Female,3,23,MoreThan12,Right colon,No,No,Low,Low,Adeno,pMMR,Negative,Negative,0.8,Positive,Negative,Positive,Positive,High,High,NAA,1,2
+X10973245,No chemo,0,61,0,61,gd,50,Male,3,17,MoreThan12,Rectum,Yes,No,High,Median,Adeno,pMMR,Negative,Negative,0.75,Positive,Negative,Positive,Positive,Middle,High,NAA,5,2
+X10979863,No chemo,1,55,1,55,gd,71,Female,3,14,MoreThan12,Rectum,No,Yes,High,Median,Adeno,dMMR,Negative,Positive,0.85,Positive,Negative,Positive,Positive,Middle,High,NAA,48,2
+X10985783,Chemo,1,20,1,20,gd,52,Male,3,15,MoreThan12,Rectum,No,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.95,Positive,Negative,Positive,Positive,High,High,NAA,3,2
+X10991623,Chemo,0,60,0,60,gd,51,Female,3,25,MoreThan12,Rectum,No,No,High,Median,Mucinous,pMMR,Negative,Positive,0.7,Positive,Negative,Positive,Positive,High,High,NAA,4,2
+X10991642,No chemo,1,27,1,27,gd,77,Male,3,15,MoreThan12,Left colon,No,Yes,High,Median,Adeno,pMMR,Negative,Negative,0.7,Positive,Negative,Positive,Positive,Middle,High,NAA,10,2
+X10993236,Chemo,0,60,0,60,gd,51,Female,3,16,MoreThan12,Left colon,Yes,No,High,Median,Adeno,pMMR,Negative,Negative,0.6,Positive,Positive,Positive,Positive,High,High,NAA,1,2
+X10993923,Chemo,0,60,0,60,gd,68,Male,3,15,MoreThan12,Left colon,No,No,High,Median,Adeno,pMMR,Negative,Negative,0.9,Positive,Negative,Positive,Positive,Low,High,NAA,3,2
+X10997202,Chemo,0,60,0,60,gd,58,Male,3,11,LessThan12,Rectum,Yes,No,High,Median,Mucinous,pMMR,Positive,Negative,0.9,Positive,Negative,Positive,Positive,High,High,NAA,1,2
